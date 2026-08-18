@@ -11,7 +11,7 @@ Repositório destinado ao armazenamento dos códigos, listas de exercícios e tr
 
 O repositório está organizado em pastas por aulas e listas de atividades:
 
-* `Aula01`: Contém o exercício clássico da Série de Fibonacci, demonstrando o uso de variáveis, laços de repetição (`for`) e impressão de dados no console.
+* `Aula01`: Contém 5 exercícios clássicos em Java, demonstrando o uso de variáveis, laços de repetição (`for`) e impressão de dados no console.
 
 ##  Como executar os códigos
 
